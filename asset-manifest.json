@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SamirALLAJI_11_230622/static/css/main.e1baaaba.css",
+    "main.js": "/SamirALLAJI_11_230622/static/js/main.9d5881ba.js",
+    "index.html": "/SamirALLAJI_11_230622/index.html",
+    "main.e1baaaba.css.map": "/SamirALLAJI_11_230622/static/css/main.e1baaaba.css.map",
+    "main.9d5881ba.js.map": "/SamirALLAJI_11_230622/static/js/main.9d5881ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1baaaba.css",
+    "static/js/main.9d5881ba.js"
+  ]
+}
